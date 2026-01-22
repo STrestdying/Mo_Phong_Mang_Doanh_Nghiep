@@ -2,11 +2,11 @@
 
 ## 1. Giới thiệu
 
-Dự án này mô phỏng một hệ thống mạng campus cho trường học nhiều tòa nhà, được thiết kế theo mô hình phân tầng, có phân đoạn mạng rõ ràng, định tuyến linh hoạt, dự phòng gateway và tích hợp mạng không dây. Toàn bộ hệ thống được triển khai và kiểm thử trên Cisco Packet Tracer nhằm phục vụ mục đích học tập và thực hành các công nghệ mạng cốt lõi.
+Dự án này mô phỏng một hệ thống mạng cho doanh nghiệp với nhiều tòa nhà, được thiết kế theo mô hình phân tầng, có phân đoạn mạng rõ ràng, định tuyến linh hoạt, dự phòng gateway và tích hợp mạng không dây. Toàn bộ hệ thống được triển khai và kiểm thử trên Cisco Packet Tracer 
 
 ## 2. Mục tiêu dự án
 
-- Thiết kế mạng cho môi trường trường học với nhiều phòng ban và tòa nhà
+- Thiết kế mạng cho môi trường doanh nghiệp với nhiều phòng ban và tòa nhà
 - Phân đoạn mạng bằng VLAN để tăng khả năng quản lý và an toàn
 - Triển khai định tuyến liên VLAN trên switch Layer 3
 - Đảm bảo tính sẵn sàng cao cho gateway bằng HSRP
