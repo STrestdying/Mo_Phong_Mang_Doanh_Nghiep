@@ -1,4 +1,4 @@
-# Mô Phỏng Hệ Thống Mạng Campus Trường Học
+# Mô Phỏng Hệ Thống Mạng Doanh Nghiệp
 
 ## 1. Giới thiệu
 
